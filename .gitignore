@@ -1,0 +1,11 @@
+.env
+data\
+credentials\
+service_account.json
+__pycache__/
+__pycache__
+
+venv
+*.json
+*.pdf
+*.csv
